@@ -1,4 +1,4 @@
-## Uma Arthika Katikapalli
+
 Hi there! 👩‍💻 Some projects published publicly
 
 
