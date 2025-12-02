@@ -12,3 +12,5 @@ Firmware Contributions --
   - Firmware App Code - [sdi12_example](https://github.com/bristlemouth/bm_protocol/tree/develop/src/apps/bm_devkit/sdi12_example)
 - Aanderaa 5990 Salinity Sensor (bringup and authored drivers)
   - Firmware App Code - [aanderaa_conductivity_sensor](https://github.com/bristlemouth/bm_protocol/tree/develop/src/apps/rs232_expander_apps/aanderaa_salinity/user_code)
+
+[Resume](https://github.com/uma-kat/uma-kat.github.io/blob/main/UmaKatikapalliResume.pdf)
