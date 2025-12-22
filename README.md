@@ -1,5 +1,5 @@
 
-Hi there! 👩‍💻 Some projects published publicly
+Hi there! 👩‍💻 
 
 
 Firmware Contributions --
